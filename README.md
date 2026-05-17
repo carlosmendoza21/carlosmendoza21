@@ -28,4 +28,4 @@
 
 ## 🎓 Background
  
-BS in Computer Science · University of Houston – Clear Lake · 2026 · GPA 3.17
+BS in Computer Science · University of Houston – Clear Lake · 2026 
