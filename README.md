@@ -24,3 +24,8 @@
 
 ---
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=default)
+
+## 🎓 Background
+ 
+BS in Computer Science · University of Houston – Clear Lake · 2026 · GPA 3.17
