@@ -19,7 +19,7 @@
 
 ### 🚀 Featured projects
 
-**[Chromophobia](https://chromophobia.vercel.app)** — Real-time music visualizer that reacts to Spotify playback with dynamic color themes, live audio analysis via Meyda.js, and an AI mood classifier (Happy / Sad / Energetic / Angry) powered by a PyTorch MLP over WebSocket.
+**[Chromophobia](https://chromophobia.vercel.app)** — Real-time music visualizer that reacts to Spotify playback with dynamic color themes, live audio analysis via Meyda.js, and an AI mood classifier (Happy / Sad / Energetic / Angry) powered by a rainforest model over WebSocket.
 `React` `PyTorch` `Meyda.js` `Spotify API` `Node.js`
 
 ---
