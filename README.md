@@ -24,7 +24,7 @@
 
 ---
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendoza21&layout=compact&hide_border=true&theme=default)
 
 ## 🎓 Background
  
