@@ -1,9 +1,8 @@
 ### Hi, I'm Carlos Mendoza 👋
 
-**Full-stack engineer & ML practitioner** · Backend systems, data pipelines, and AI agents that actually ship.
+**Computer Science graduate building backend systems, ML applications, and real-time software.
 
 🤝 Open to roles in **ML engineering**, **backend engineering**, or **full-stack** — especially teams working on applied AI.
-
 ---
 
 ### 🛠 Tech stack
