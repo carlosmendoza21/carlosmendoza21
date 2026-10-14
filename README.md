@@ -31,7 +31,7 @@
 
 `TypeScript` `React` `Vite` `Logistic regression` `REST API`
 
-**[Chromophobia](https://chromophobia.vercel.app)** · [repo](https://github.com/carlosmendoza21/chromophobia): Real-time music visualizer that reacts to Spotify playback with retro-styled WebGL visuals, live audio analysis via Meyda.js, and an AI mood classifier (Happy / Sad / Energetic / Angry) powered by a random forest model and served over WebSocket. Built as a 7-person senior project at UHCL.
+**[Chromophobia](https://chromophobia.vercel.app)** · [repo](https://github.com/carlosmendoza21/chromophobia): Real-time music visualizer that reacts to Spotify playback with retro-styled WebGL visuals, live audio analysis via Meyda.js, and an AI mood classifier (Happy / Sad / Energetic / Angry) powered by a random forest classifier and served over WebSocket. Built as a 7-person senior project at UHCL.
 
 `React` `Three.js` `Python` `PyTorch` `Meyda.js` `Spotify API` `Node.js`
 
