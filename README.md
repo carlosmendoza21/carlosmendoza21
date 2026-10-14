@@ -23,7 +23,7 @@
 
 ### 🚀 Featured projects
 
-**[Deadlock Live Odds](https://github.com/carlosmendoza21/Deadlock-Dashboard)**: Live win-probability dashboard for Valve's *Deadlock*. Look up any player to see their current match with a chance-to-win that updates as souls and objectives change.
+**[Deadlock Dashboard](https://github.com/carlosmendoza21/Deadlock-Dashboard)**: Live win-probability dashboard for Valve's *Deadlock*. Look up any player to see their current match with a chance-to-win that updates as souls and objectives change.
 - Logistic-regression model fitted on ~25,000 real matches, with separate models at each game-time checkpoint
 - Held-out accuracy climbs from **60% pre-game** to **83% at 35 min**, and predicted odds stay well calibrated
 - Found and fixed a target leak (rank badges that already included the match result) that had inflated the rank effect ~10×
